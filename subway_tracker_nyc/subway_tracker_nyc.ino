@@ -3,7 +3,7 @@
 //wifi and URL info
 const char* ssid     = "YOUR WIFI";  //insert your wifi name here
 const char* password = "YOUR PASSWORD"; //insert your wifi password
-const char* host = "YOURURL.COM";//insert the URL where you're hosting your code
+const char* host = "YOURURL.COM";//insert the URL where you're hosting your python code
 const char* URL = "/nycstatus.html";
 const int httpPort = 80;
 
